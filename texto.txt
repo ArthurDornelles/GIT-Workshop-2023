@@ -1,6 +1,6 @@
 Em um belo dia, Julia saiu de casa quando
 
-
+Recebeu um convite para uma KT e um workshop de GIT. Infelizmente, a KT, que é teórica, aconteceria no mesmo horário da sua aula.
 
 além disso, mais tarde ela não esperava que 
 
